@@ -1,0 +1,53 @@
+.logo{
+    margin: 8px;
+    margin-left: 100px;
+}
+
+.navbar{
+    padding: 10px 25px;
+    background-color: rgb(252, 252, 252);
+    margin: auto;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+
+.main-heading{
+    font-weight:normal;
+    font-size: 55px;
+}
+.sub-heading{
+    font-weight: 1;
+    font-size: 20px;
+
+}
+button{
+    
+    
+        background-color: #387ed1;
+        color: #fff;
+        border: 1px solid rgba(0, 0, 0, 0) !important;
+        border-radius: 3px;
+        padding: 10px 32px;
+        font-size: 20px;
+    
+}
+.nav-item{
+    float: right;
+    display: inline-grid;
+}
+.content {
+    padding: 20px;
+}
+.signup-button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.nav-item {
+    margin: 0 15px;
+    cursor: pointer;
+}
